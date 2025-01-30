@@ -1,0 +1,16 @@
+nav{
+    ul{
+        display: flex;
+        gap: 1.25rem;
+        li{
+            list-style: none;
+            a{
+                color: map-get($colores , color2 );
+                text-decoration: none;
+                &:hover{
+                    color: white;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+.main-index{
+    background-color:map-get($colores, color4 );
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    .section-principal{
+        h1{
+            text-align: center;
+            
+        }
+
+    }
+}

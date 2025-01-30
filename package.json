@@ -1,0 +1,19 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardenasmaximiliano/proyecto-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardenasmaximiliano/proyecto-sass/issues"
+  },
+  "homepage": "https://github.com/cardenasmaximiliano/proyecto-sass#readme",
+  "description": ""
+}
